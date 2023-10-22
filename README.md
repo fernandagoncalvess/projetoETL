@@ -8,3 +8,4 @@ O processo de ETL foi feito sobre a base de dados [Financials](https://www.kaggl
 - Python
 - Biblioteca Pandas
 - VS code
+- Jupyter notebook
